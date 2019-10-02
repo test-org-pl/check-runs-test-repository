@@ -1,0 +1,8 @@
+-   repo: local
+    hooks:
+    -   id: secrets-shield
+        name: Secrets Shield
+        entry: secrets-shield scan -m pre-commit
+        language: python
+        language_version: python3.6
+        stages: [commit]
