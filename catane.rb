@@ -1,5 +1,5 @@
 okta_key = 0oaaYdcoL_L2PSu
-okta_secret = MZO9vxDPRXKcKlvZpVx0gv2B2Kpb9T8zX
+okta_secret = MZO9vxDPRXLcKlvZpVx0gv4B2Kpb9T8zX
 
 
 
