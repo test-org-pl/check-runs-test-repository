@@ -1,5 +1,3 @@
-pager
-
-pagerduty
-
-WorkplaceViolence911
+class Stop 
+  puts "doing dumm things"
+end
