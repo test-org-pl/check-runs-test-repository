@@ -1,3 +1,5 @@
 puts "oops I do it again"
 
-SLACK_API="xoxb-263594202824-FGqerGF8t08v8M85q4i57po9"
+SLACK_API_KEY="xoxb-263594202824-FGqerGF8t08v8M85q4i57po9"
+
+stop
