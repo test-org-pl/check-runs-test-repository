@@ -2,6 +2,13 @@ dfsdfsdfsdfsd
 
 
 
+def fun():
+    pass
+
+
+
+
+    test
 
 what about now ?
 this is also a leak
